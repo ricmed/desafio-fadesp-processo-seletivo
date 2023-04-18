@@ -1,4 +1,4 @@
-# Desafio FADESP - Processo Seletivo
+# Desafio Técnico
 
 ## Introdução
 Para esse desafio utilizaremos uma base de dados genérica contendo informações sobre vendas de uma loja de varejo. O objetivo final é realizar um processo de ETL e análise dos dados para identificar tendências e insights sobre as vendas e o comportamento dos clientes.
@@ -35,7 +35,7 @@ Desafios:
 
 
 ## Informações adicionais
-* Os objetivos e desafios não são obrigatórios dentro do processo seletivo, porém as suas entregas serão considerados diferenciais.
+* Os objetivos e desafios não terão caráter eliminatório no processo seletivo, porém as suas entregas serão considerados diferenciais.
 
 * Organize o notebook de forma clara e coesa, adicionando comentários e explicando cada processo realizado.
 
